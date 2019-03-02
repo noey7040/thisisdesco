@@ -61,7 +61,7 @@ We approach design from a modern and practical standpoint and hope to work toget
   <div class="bio-channels">Instagram: <a href="https://instagram.com/ivanvillacreative" target="_blank">ivanvillacreative</a> // Twitter: <a href="https://twitter.com/ivan_villa" target="_blank">ivan_villa</a> // Dribbble: <a href="https://dribbble.com/ivanvilla" target="_blank">ivanvilla</a></div></li>
   <li><img src="assets/images/bio-images-square/11-2018/noelle-headshot.jpg" alt="Noelle Szombathy">
   <div class="bio-name">Noelle Szombathy</div>
-  Noelle is a photographer and designer who is inspired by travel. She's worked on a range of projects - from logo design to personalized illustrations. As a rookie in the formal design world, she is always looking to expand her toolbox and jump head-first into a new challenge.
+  Noelle is a graphic designer and photographer who specializes in identity systems and editorial designs. She is always looking to learn more about the world and jump head-first into a new challenge. When she's not tweaking nodes in illustrator, you can find her exploring foreign cities and chatting with locals. 
   <div class="bio-channels">Instagram: <a href="https://instagram.com/noellered" target="_blank">noellered</a></div></li>
   <li><img src="assets/images/bio-images-square/11-2018/tanu-headshot.jpg" alt="Tanushree Padath">
   <div class="bio-name">Tanushree Padath</div>
